@@ -1,3 +1,0 @@
-# shanmaootto
-
-Initializing repository...
